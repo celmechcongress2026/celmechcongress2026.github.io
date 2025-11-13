@@ -4,7 +4,7 @@ title: Home
 layout: home
 ---
 
-Hi there!
+Hi there GNOMIN!
 
 ![](assets/img/banner.jpg)
 
