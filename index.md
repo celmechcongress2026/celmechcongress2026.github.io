@@ -13,6 +13,5 @@ Hi there!
 3. **Schedule**: Curate a [schedule like this](schedule) .
 4. **Papers**: Curate a [list of papers like this](papers) from .
 
-> **NOTE:** The best way to use these is to turn feature on or off by editing the `collections` attribute in `_config.yml`.
+> **NOTE:** The best.
 
-If you experience issues or have cool features to add, feel free to [fork this template]().
