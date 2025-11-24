@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: Home1
-layout: home2
+title: Home
+layout: home
 ---
 
 Hi there GNOMIN!
