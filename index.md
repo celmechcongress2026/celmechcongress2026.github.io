@@ -6,8 +6,7 @@ layout: home
 
 <div class="hero">
   <h1>Hamiltonian Systems and Celestial Mechanics</h1>
-  <h2>Workshop</h2>
-  <p class="location">Casa Matemática Oaxaca</p>
+  <h2>Workshop at Casa Matemática Oaxaca</h2>
   <p class="city">Oaxaca, Mexico</p>
   <p class="dates">June 7 – 12, 2026</p>
 </div>
