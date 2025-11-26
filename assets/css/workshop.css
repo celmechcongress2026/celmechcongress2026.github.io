@@ -161,10 +161,10 @@ span.award-other img {
 
 .intro {
   max-width: 900px;
-  margin: 3em auto 2em auto;  /* separa del hero */
+  margin: 5em auto 2em auto;  /* separa del hero */
   padding: 0 1em;             /* espacio interno */
   text-align: left;           /* alineado a la izquierda */
-  font-size: 1.2em;           /* un poco más grande */
+  font-size: 1.25em;           /* un poco más grande */
   line-height: 1.7em;         /* para mejor lectura */
   color: #000;                /* texto negro */
 }
