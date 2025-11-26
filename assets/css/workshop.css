@@ -157,3 +157,15 @@ span.award-other img {
   font-weight: bold;
   font-size: clamp(1em, 2.5vw, 1.2em);
 }
+
+
+.intro {
+  max-width: 900px;
+  margin: 4em auto 2em auto;
+  padding: 1em 2em;
+  text-align: left;
+  font-size: 1.15em;
+  line-height: 1.7em;
+  background-color: rgba(255, 255, 255, 0.05); /* opcional */
+  border-radius: 8px; /* opcional */
+}
