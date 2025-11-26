@@ -5,11 +5,7 @@ layout: home
 ---
 
 <div class="hero">
-  <h1>
-    Hamiltonian Systems<br>
-    <span class="and">and</span><br>
-    Celestial Mechanics
-  </h1>
+  <h1>Hamiltonian Systems and Celestial Mechanics</h1>
   <h2>Workshop</h2>
   <p class="location">Casa Matemática Oaxaca</p>
   <p class="city">Oaxaca, Mexico</p>
