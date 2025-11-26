@@ -95,7 +95,7 @@ span.award-other img {
 
 
 .hero {
-  background-image: url("/assets/img/icoloring.png");
+  background-image: url("assets/img/icoloring.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
