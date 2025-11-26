@@ -149,3 +149,9 @@ span.award-other img {
     font-size: 1em;
   }
 }
+
+/* Ciudad en bold y tamaño igual que las fechas */
+.hero .city {
+  font-weight: bold;
+  font-size: clamp(1em, 2.5vw, 1.2em);
+}
