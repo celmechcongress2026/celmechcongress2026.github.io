@@ -125,8 +125,8 @@ span.award-other img {
 .hero p {
   margin: 0.2em 0;
   font-size: clamp(1em, 2.5vw, 1.2em);
-  color: white; /* asegura que el texto sea blanco */
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.7); /* sombra negra para que resalte */
+  color: black;
+  text-shadow: 2px 2px 4px rgba(255,255,255,0.6);
 }
 
 .hero .dates {
