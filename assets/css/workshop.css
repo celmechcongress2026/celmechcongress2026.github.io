@@ -95,18 +95,19 @@ span.award-other img {
 
 
 .hero {
-  background-image: url("/assets/img/icoloring.png"); /* cambia por tu imagen */
+  background-image: url("/assets/img/icoloring.png"); /* tu imagen de fondo */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 400px; /* ajusta si quieres más alto */
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  color: white;
-  padding: 0 1em;
+  justify-content: center;  /* verticalmente centrado */
+  align-items: flex-start;  /* horizontalmente a la izquierda */
+  padding-left: 2em;        /* espacio desde el borde */
+  text-align: left;
+  color: black;             /* texto negro */
+  text-shadow: 2px 2px 4px rgba(255,255,255,0.6); /* sombra blanca para legibilidad */
 }
 
 .hero h1 {
