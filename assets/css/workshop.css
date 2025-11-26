@@ -118,8 +118,8 @@ span.award-other img {
 .hero h2 {
   font-size: clamp(1.2em, 3vw, 1.5em);
   margin-top: 0.5em;
-  text-transform: uppercase;
   letter-spacing: 2px;
+  /* ya no text-transform, así mantiene mayúsculas y minúsculas normales */
 }
 
 .hero p {
