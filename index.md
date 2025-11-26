@@ -5,8 +5,10 @@ layout: home
 ---
 
 <div class="hero">
-  <h1>Workshop on Celestial Mechanics — Oaxaca 2026</h1>
-  <p>A meeting on celestial mechanics, dynamical systems, and related topics.</p>
+  <h1>Hamiltonian Systems and Celestial Mechanics Workshop</h1>
+  <p class="location">Casa Matemática Oaxaca</p>
+  <p class="city">Oaxaca, Mexico</p>
+  <p class="dates">June 7 – 12, 2026</p>
 </div>
 
 1. **Speakers**: Curate a [speaker list like this one](speakers) from a set .
