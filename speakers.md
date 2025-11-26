@@ -1,5 +1,5 @@
 ---
 layout: speakers
-title: Speakers
-permalink: /speakers/
+title: Participants
+permalink: /participants/
 ---
