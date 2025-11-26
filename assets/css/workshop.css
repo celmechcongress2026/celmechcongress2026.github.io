@@ -92,3 +92,24 @@ span.award-other img {
   padding-top: 0;
   padding-bottom: 8px;
 }
+
+
+.hero {
+  background-image: url("/assets/img/icoloring.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+}
+
+.hero-overlay {
+  background: rgba(0, 0, 0, 0.45);
+  padding: 20px 40px;
+  border-radius: 6px;
+}
