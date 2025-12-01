@@ -25,8 +25,8 @@ div.speaker p.speaker-bio {
 }
 
 .people-name {
-  margin: 0.5em 0;   /* espacio vertical */
-  padding: 0.3em 0;  /* espacio interno */
+  margin: 2px 0;   /* espacio vertical mínimo */
+  padding: 0;      /* sin espacio interno */
 }
 
 .people-name h6 {
