@@ -7,9 +7,10 @@ permalink: /accommodation/
 ## 🏨 Hotel Hacienda Los Laureles (Sede)  
 **Oaxaca de Juárez, Mexico**
 
-- 🌐 **Website:** [https://haciendaloslaureles.com](https://haciendaloslaureles.com)
+- 🌐 **Website:** <a href="https://haciendaloslaureles.com" target="_blank">https://haciendaloslaureles.com</a>  
 - 📍 **Location:** San Felipe del Agua, Oaxaca  
 - 🏛️ **Venue:** This hotel will host the talks and scientific sessions during the congress.
+
 
 ---
 
