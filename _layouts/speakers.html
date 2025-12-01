@@ -15,11 +15,18 @@ layout: default
 		        <td style="border: none;">
 		            <div class="col-xs-6">
 		                <p align="center">
+
+
+							{% comment %}
 		                	{% if speaker.img %}
 		                    	<img class="people-pic" src="{{ speaker.img | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
 		                    {% else %}
 		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
 		                    {% endif %}
+							{% endcomment %}
+
+
+						
 		                </p>
 		            </div>
 		        </td>
