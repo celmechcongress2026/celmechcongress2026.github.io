@@ -40,6 +40,7 @@ header_pages:
 - schedule.md
 - papers.md
 - contactus.md
+- accommodation.md
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
 # masthead: assets/img/banner.jpg
@@ -65,6 +66,9 @@ collections:
   papers:
     sort_by: sequence_id
     output: true
+  accommodation:
+    output: true
+    permalink: /accommodation/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
