@@ -4,7 +4,7 @@ title: Accommodation
 permalink: /accommodation/
 ---
 
-## 🏨 Hotel Hacienda Los Laureles  
+## 🏨 Hotel Hacienda Los Laureles (Sede)  
 **Oaxaca de Juárez, Mexico**
 
 - 🌐 **Website:** https://haciendaloslaureles.com  
