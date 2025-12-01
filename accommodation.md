@@ -1,14 +1,24 @@
 ---
 layout: page
-title: Accommodation
+title: Accommodation (Sede)
 permalink: /accommodation/
 ---
 
-## Hotel Hacienda Los Laureles  
-Oaxaca de Juárez, México.
+## 🏨 Hotel Hacienda Los Laureles  
+**Oaxaca de Juárez, Mexico**
 
-- 🌐 **Sitio web:** [https://haciendaloslaureles.com](https://haciendaloslaureles.com)  
-- 📍 **Ubicación:** San Felipe del Agua, Oaxaca  
-- 🛏️ Uno de los hoteles donde se hospedará el grupo durante el congreso.
+- 🌐 **Website:** https://haciendaloslaureles.com  
+- 📍 **Location:** San Felipe del Agua, Oaxaca  
+- 🏛️ **Venue:** This hotel will host the talks and scientific sessions during the congress.
 
-Más información se añadirá pronto.
+---
+
+## 🛏️ Hotel Angel Inn (Alternative)  
+**Oaxaca de Juárez, Mexico**
+
+- 🌐 **Website:** https://hotelangelinn.com  
+- 📍 **Location:** San Felipe del Agua, Oaxaca  
+- 🚶 **Distance:** Located very close to the main venue, offering convenient access.  
+- ⭐ **Alternative:** A nearby option for participants seeking additional accommodation choices.
+
+More details will be added soon.
