@@ -1,4 +1,4 @@
 ---
-name: Luis García Naranjo
+name: Luis García-Naranjo
 affil: University of Padua
 ---
