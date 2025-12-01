@@ -17,7 +17,7 @@ permalink: /accommodation/
 ## 🛏️ Hotel Angel Inn (Alternative)  
 **Oaxaca de Juárez, Mexico**
 
-- 🌐 **Website:** [https://hotelangelinn.com](http://www.hotelangelinn.com/)  
+- 🌐 **Website:** <a href="http://www.hotelangelinn.com/" target="_blank">https://hotelangelinn.com</a>
 - 📍 **Location:** San Felipe del Agua, Oaxaca  
 - 🚶 **Distance:** Located very close to the main venue, offering convenient access.  
 - ⭐ **Alternative:** A nearby option for participants seeking additional accommodation choices.
