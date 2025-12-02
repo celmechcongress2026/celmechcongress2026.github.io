@@ -16,13 +16,14 @@ layout: home
     The Hamiltonian Systems and Celestial Mechanics Workshop, at Casa Matemática Oaxaca, brings together researchers to discuss recent progress in Hamiltonian Systems, Celestial Mechanics, and related fields. The workshop will feature talks, group discussions, and collaborative sessions to encourage interaction and the exchange of ideas.
   </p>
 
-<p>
-  <strong>Organizers:</strong><br>
+<p><strong>Organizers:</strong></p>
+
+<div style="margin-left: 18px; line-height: 1.5;">
   Carlos Barrera<br>
   Abimael Bengochea — <a href="mailto:abimael.bengochea@itam.mx">abimael.bengochea@itam.mx</a><br>
   Montserrat Corbera<br>
   Cristina Stoica
-</p>
+</div>
 
   <p>
     <strong>Workshop Reference:</strong>
