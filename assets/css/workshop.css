@@ -1,7 +1,3 @@
-body {
-  background-color: #FAFAF7;
-}
-
 div.speaker {
   margin: 1em 0;
 }
@@ -202,4 +198,8 @@ span.award-other img {
 .site-header .site-nav .trigger a.page-link {
   font-size: 1.2em;   /* ajusta este valor si quieres más grande o más pequeño */
   font-weight: 500;   /* opcional: un poquito más grueso */
+}
+
+.site {
+  background-color: #FAFAF7 !important;
 }
