@@ -203,6 +203,9 @@ span.award-other img {
 body,
 .site,
 .site-content,
-.wrapper {
+.wrapper,
+.site-main,
+.page,
+.content {
   background-color: #FAFAF7 !important;
 }
