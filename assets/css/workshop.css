@@ -162,10 +162,9 @@ span.award-other img {
 
 
 .intro {
-  max-width: 950px;   /* igual que la imagen */
-  margin: 2em auto;   /* centrar (auto izquierda/derecha) */
-  padding: 0;
-  text-align: left;
+  max-width: 900px;
+  margin: 2em auto;    /* centra el texto horizontalmente */
+  padding: 0 1.2em;    /* suaviza lados en pantallas chicas */
   font-size: 1.25em;
   line-height: 1.8em;
 }
