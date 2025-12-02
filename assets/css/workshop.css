@@ -161,10 +161,11 @@ span.award-other img {
 }
 
 
+
 .intro {
   max-width: 900px;
-  margin: 2em 0 2em 2em;   /* ← IMPORTANTE: mismo desplazamiento que el hero */
-  padding: 0;
+  margin: 2em 0 2em 2em;   /* alineado con el hero */
+  padding: 0 2em 0 0;      /* más espacio a la derecha */
   font-size: 1.15em;
   line-height: 1.55em;
   text-align: justify;
