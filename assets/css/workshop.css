@@ -193,3 +193,9 @@ span.award-other img {
   display: inline-block !important;
   margin-right: 1em;
 }
+
+
+.site-header .site-nav .trigger a.page-link {
+  font-size: 1.2em;   /* ajusta este valor si quieres más grande o más pequeño */
+  font-weight: 500;   /* opcional: un poquito más grueso */
+}
