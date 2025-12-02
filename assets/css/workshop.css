@@ -200,6 +200,9 @@ span.award-other img {
   font-weight: 500;   /* opcional: un poquito más grueso */
 }
 
-.site {
+body,
+.site,
+.site-content,
+.wrapper {
   background-color: #FAFAF7 !important;
 }
