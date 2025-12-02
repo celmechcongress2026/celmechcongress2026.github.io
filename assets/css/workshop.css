@@ -171,3 +171,25 @@ span.award-other img {
   text-align: justify;
   text-justify: inter-word;
 }
+
+
+.site-header .wrapper {
+  display: flex;
+  justify-content: flex-start; /* mueve todo a la izquierda */
+  align-items: center;
+  gap: 2em; /* separa logo de menú */
+}
+
+/* Asegura que el nav quede horizontal */
+.site-header .site-nav {
+  display: flex !important;
+  flex-direction: row;
+  gap: 1em; /* separa enlaces entre sí */
+}
+
+/* Estilo de los enlaces dentro de trigger */
+.site-header .site-nav .trigger,
+.site-header .site-nav .trigger a.page-link {
+  display: inline-block !important;
+  margin-right: 1em;
+}
