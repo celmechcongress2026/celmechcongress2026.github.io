@@ -4,7 +4,7 @@ layout: page
 permalink: /travel/
 ---
 
-Participants traveling from Mexico City can reach Oaxaca via flights to the Aeropuerto Internacional de Oaxaca (OAX / Xoxocotlán). All flights depart from the Aeropuerto Internacional Benito Juárez (MEX) in Mexico City.  
+Participants traveling from Mexico City depart from the Aeropuerto Internacional Benito Juárez (MEX) and arrive at the Aeropuerto Internacional de Oaxaca (OAX / Xoxocotlán).
 
 ---
 
