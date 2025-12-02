@@ -4,14 +4,14 @@ layout: page
 permalink: /travel/
 ---
 
-All flights to Oaxaca arrive at the **Aeropuerto Internacional de Oaxaca (OAX / Xoxocotlán)**. From Mexico City, flights depart exclusively from the **Aeropuerto Internacional Benito Juárez (MEX)**.  
+Flights to Oaxaca arrive at the **Aeropuerto Internacional de Oaxaca (OAX / Xoxocotlán)**. From Mexico City, departures are exclusively from the **Aeropuerto Internacional Benito Juárez (MEX)**.  
 
 Major airlines operating this route include:  
 - **AeroMéxico** (Terminal 2)  
 - **Volaris** (Terminal 1)  
 - **VivaAerobus** (Terminal 1)  
 
-The flight duration is approximately **1 hour and 15–30 minutes**, covering a distance of about **370 km (229 mi)**.
+Flight duration is approximately **1 hour and 15–30 minutes**, covering about **370 km (229 mi)**.
 
 ---
 
@@ -19,7 +19,7 @@ The flight duration is approximately **1 hour and 15–30 minutes**, covering a 
 
 The Oaxaca airport is located about **15 minutes from the city center**. Options to reach your accommodation include:  
 - **Taxi:** Available outside the arrivals area.  
-- **Rideshare apps:** Such as Uber or DiDi.  
-- **Shuttle / Private transfer:** Can be arranged in advance by hotels or conference organizers.  
+- **Rideshare apps:** Uber, DiDi, etc.  
+- **Shuttle / Private transfer:** Can be arranged in advance by hotels or the conference organizers.  
 
-> **Tip:** Always confirm your terminal and check your airline for the latest flight schedules.
+> **Tip:** Confirm your terminal and check your airline for the latest schedule before travel.
