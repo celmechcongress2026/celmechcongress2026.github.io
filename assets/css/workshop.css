@@ -166,7 +166,7 @@ span.award-other img {
   max-width: 1100px;     /* más ancho: caben más caracteres por línea */
   margin: 2em 0 2em 2em; /* alineado a la izquierda con el hero */
   padding-right: 1.5em;  /* espacio controlado a la derecha */
-  font-size: 1.15em;
+  font-size: 1.25em;
   line-height: 1.55em;
   text-align: justify;
   text-justify: inter-word;
