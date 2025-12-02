@@ -171,22 +171,3 @@ span.award-other img {
   text-align: justify;
   text-justify: inter-word;
 }
-
-
-/* Barra de navegación: alinear pestañas a la izquierda */
-.site-nav ul {
-  display: flex;             /* usa flexbox */
-  justify-content: flex-start; /* alinea a la izquierda */
-  list-style: none;          /* quita viñetas */
-  padding-left: 0;           /* elimina margen izquierdo */
-}
-
-.site-nav li {
-  margin-right: 1.5em;       /* espacio entre pestañas */
-}
-
-.site-nav a {
-  text-decoration: none;     /* quita subrayado */
-  color: inherit;            /* mantiene color del texto */
-  font-weight: 500;          /* opcional: un poco más destacado */
-}
