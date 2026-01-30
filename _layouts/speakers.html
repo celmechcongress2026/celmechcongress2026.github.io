@@ -9,6 +9,7 @@ layout: default
   </header>
 
   <div class = "post-content">
+	  {{ content }}
 	  <table style="border-collapse: collapse; border: none;">
 	  	{% assign ordered = site.speakers | sort: "last_name" %}
 		{% for speaker in ordered %}
