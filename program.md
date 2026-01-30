@@ -4,7 +4,7 @@ layout: page
 permalink: /program/
 ---
 
-All lectures will take place at the UNAM–Oaxaca University Extension Unit, located in the historic city center and within walking distance of the main conference hotel.
+All lectures will take place at the UNAM–Oaxaca University Extension Unit, located in the historic city center.
 
 ---
 - 🏛️ UNAM–Oaxaca University Extension Unit  
@@ -12,4 +12,4 @@ All lectures will take place at the UNAM–Oaxaca University Extension Unit, loc
 
 ---
 
-The venue is approximately a 10–15 minute walk from Hotel Oaxaca Real.
+The venue is within walking distance of Hotel Oaxaca Real.
