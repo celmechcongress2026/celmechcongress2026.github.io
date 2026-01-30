@@ -4,14 +4,14 @@ title: Accommodation
 permalink: /accommodation/
 ---
 
-The Hotel Oaxaca will serve as the main venue.
+The Hotel Oaxaca will serve as the main venue and is located in the historic city center, approximately a 5-minute walk from the Zócalo.
+
 ---
 - 🏨 Hotel Oaxaca Real
 - 📍 **Address:** Calle Manuel García Vigil 306, Centro Histórico, 68000 Oaxaca de Juárez, Oaxaca, México
 - ☎️  **Tel:** +52 951 506 0708
 - ✉️ **Contact:** Maura Sánchez at grupos@oaxacareal.com  
 - 🌐 **Website:** <a href="https://www.oaxacareal.com/" target="_blank">https://www.oaxacareal.com/</a>  
-- 🚶 **From downtown Oaxaca (Zócalo):** approximately 5 minutes walking
 ---
 
 Several hotels are available nearby. Alternative options include:
