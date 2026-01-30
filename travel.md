@@ -22,8 +22,5 @@ Flight time is approximately 1 hour and 15–30 minutes, covering about 370 km (
 ## 🚖 From Oaxaca Airport to the City
 
 The Oaxaca airport is located roughly 15 minutes from the city center. Options to reach accommodations include:  
-- Taxi: Available outside the arrivals area  
-- Rideshare apps: Uber, DiDi, etc.  
-- Shuttle / private transfer: Can be arranged in advance by hotels or the conference organizers  
-
-> Tip: Verify your terminal and flight schedule before traveling.
+- Taxi: Available outside the arrivals area
+- Rideshare apps: DiDi
