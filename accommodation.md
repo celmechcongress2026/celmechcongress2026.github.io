@@ -4,20 +4,20 @@ title: Accommodation
 permalink: /accommodation/
 ---
 
-The following hotels in Oaxaca de Juárez are suggested for accommodation during the workshop. Discounts are available for participants at both hotels. Hotel Hacienda Los Laureles will serve as the venue for talks and scientific sessions.
+The Hotel Oaxaca will serve as the main venue.
+
+## 🏨 Hotel Oaxaca Real
+- 📍 **Address:** Calle Manuel García Vigil 306, Centro Histórico, 68000 Oaxaca de Juárez, Oaxaca, México
+- ☎️  **Tel:** +52 951 506 0708
+- ✉️ **Contact:** Maura Sánchez at grupos@oaxacareal.com  
+- 🌐 **Website:** <a href="https://www.oaxacareal.com/" target="_blank">https://www.oaxacareal.com/</a>  
+- 🚶 **From downtown Oaxaca (Zócalo):** approximately 5 minutes walking
 
 
+Several hotels are available nearby. Alternative options include:
 
-## 🏨 Hotel Hacienda Los Laureles (Sede)  
-
-- 🌐 **Website:** <a href="https://haciendaloslaureles.com" target="_blank">https://haciendaloslaureles.com</a>  
-- 🏛️ **Venue:** This hotel will host the talks and scientific sessions during the congress.
-- 🕒 **From downtown Oaxaca:** 5–7 minutes by taxi · 22–25 minutes walking
-
----
-
-## 🛏️ Hotel Angel Inn (Alternative)  
-
-- 🌐 **Website:** <a href="http://www.hotelangelinn.com/" target="_blank">https://hotelangelinn.com</a>
-- 🚶 **Close to venue:** Convenient walking access  
-- 🕒 **From downtown Oaxaca:** 4–6 minutes by taxi · 18–22 minutes walking
+- **Hotel Naura Centro:** <a href="https://www.hotelnaura.com/es/index.html" target="_blank">https://www.hotelnaura.com/es/index.html</a>  
+- **Hotel Casa Antonieta:** <a href="https://www.casaantonieta.com/" target="_blank">https://www.casaantonieta.com/</a>  
+- **Hotel Casa de Sierra Azul:** <a href="https://www.hotelcasadesierrazul.com/" target="_blank">https://www.hotelcasadesierrazul.com/</a>  
+- **Hotel Casa Naila:** <a href="https://www.casanaila.com/es/index.html" target="_blank">https://www.casanaila.com/es/index.html</a>  
+- **Hotel Azul:** <a href="https://www.hotelazuloaxaca.com/" target="_blank">https://www.hotelazuloaxaca.com/</a>  
