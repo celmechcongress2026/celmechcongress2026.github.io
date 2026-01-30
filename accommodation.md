@@ -6,7 +6,7 @@ permalink: /accommodation/
 
 The Hotel Oaxaca will serve as the main venue.
 ---
-## 🏨 Hotel Oaxaca Real
+- 🏨 Hotel Oaxaca Real
 - 📍 **Address:** Calle Manuel García Vigil 306, Centro Histórico, 68000 Oaxaca de Juárez, Oaxaca, México
 - ☎️  **Tel:** +52 951 506 0708
 - ✉️ **Contact:** Maura Sánchez at grupos@oaxacareal.com  
