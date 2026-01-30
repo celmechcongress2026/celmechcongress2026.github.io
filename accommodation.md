@@ -15,7 +15,8 @@ The Hotel Oaxaca will serve as the main venue and is located in the historic cit
 
 ---
 
-Several hotels are available nearby. Alternative options include:
+‎ 
+ Several hotels are available nearby. Alternative options include:
 ---
 - **Hotel Naura Centro:** <a href="https://www.hotelnaura.com/es/index.html" target="_blank">https://www.hotelnaura.com/es/index.html</a>  
 - **Hotel Casa Antonieta:** <a href="https://www.casaantonieta.com/" target="_blank">https://www.casaantonieta.com/</a>  
