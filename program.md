@@ -1,7 +1,7 @@
 ---
-title: Venue & Program
+title: Program
 layout: page
-permalink: /venue-program/
+permalink: /program/
 ---
 
 All lectures will take place at the UNAM–Oaxaca University Extension Unit, located in the historic city center and within walking distance of Hotel Oaxaca Real (approximately a 10–15 minute walk).
