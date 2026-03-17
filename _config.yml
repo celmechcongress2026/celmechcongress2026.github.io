@@ -43,9 +43,11 @@ header_pages:
 #- schedule.md
 #- papers.md
 #- contactus.md
-- accommodation.md
-- travel.md
 - program.md
+- venue.md
+- travel.md
+- accommodation.md
+
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
 # masthead: assets/img/banner.jpg
