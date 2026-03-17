@@ -4,7 +4,7 @@ title: Accommodation
 permalink: /accommodation/
 ---
 
-The Hotel Oaxaca will serve as the main venue and is located in the historic city center, approximately a 5-minute walk from the Zócalo.
+Hotel Oaxaca Real will serve as the main accommodation. It is located in the historic city center, approximately a 5-minute walk from the Zócalo.
 
 ---
 - 🏨 Hotel Oaxaca Real
