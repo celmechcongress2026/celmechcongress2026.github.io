@@ -17,7 +17,7 @@ Hotel Oaxaca Real will serve as the main accommodation. It is located in the his
 
 ‎ 
  Several hotels are available nearby. Alternative options include:
----
+
 - **Hotel Naura Centro:** <a href="https://www.hotelnaura.com/es/index.html" target="_blank">https://www.hotelnaura.com/es/index.html</a>  
 - **Hotel Casa Antonieta:** <a href="https://www.casaantonieta.com/" target="_blank">https://www.casaantonieta.com/</a>  
 - **Hotel Casa de Sierra Azul:** <a href="https://www.hotelcasadesierrazul.com/" target="_blank">https://www.hotelcasadesierrazul.com/</a>  
