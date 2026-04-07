@@ -31,10 +31,3 @@ layout: page
     BIRS Workshop 26w5606
   </a>
 </p>
-
-<div style="text-align:center; margin-top:30px;">
-  <img src="/assets/img/CDC_RGB.svg" width="160">
-  <p style="font-size:14px; margin-top:8px;">
-    Supported by the IMU Commission for Developing Countries (CDC)
-  </p>
-</div>
