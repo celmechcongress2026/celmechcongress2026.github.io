@@ -31,3 +31,13 @@ layout: page
     BIRS Workshop 26w5606
   </a>
 </p>
+
+<div style="text-align:center; margin-top:35px;">
+  <p style="font-size:14px; margin-bottom:6px;">
+    Hosted at Casa Matemática Oaxaca
+  </p>
+  <p style="font-size:14px; margin-bottom:10px;">
+    Supported by BIRS and the IMU Commission for Developing Countries (CDC)
+  </p>
+  <img src="/assets/img/CDC_RGB.svg" height="55" style="margin-top:5px;">
+</div>
