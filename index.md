@@ -33,19 +33,14 @@ layout: page
 </p>
 
 
-<div style="display:flex; align-items:center; justify-content:space-between; margin-top:40px;">
+<p style="margin-top:25px;">
+  Hosted at Casa Matemática Oaxaca
+</p>
 
-  <div style="font-size:14px; line-height:1.5;">
-    <p style="margin:0;">
-      Hosted at Casa Matemática Oaxaca
-    </p>
-    <p style="margin:4px 0 0 0;">
-      Supported by BIRS and the IMU Commission for Developing Countries (CDC)
-    </p>
-  </div>
+<p>
+  Supported by BIRS and the IMU Commission for Developing Countries (CDC)
+</p>
 
-  <div>
-    <img src="/assets/img/CDC_RGB.svg" alt="IMU-CDC" style="max-width:200px; height:auto;">
-  </div>
-
+<div style="text-align:center; margin-top:15px;">
+  <img src="/assets/img/CDC_RGB.svg" alt="IMU-CDC" width="260">
 </div>
