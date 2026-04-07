@@ -41,8 +41,18 @@ layout: page
   Supported by BIRS and the IMU Commission for Developing Countries (CDC)
 </p>
 
-<div style="text-align:center; margin-top:20px;">
-  <img src="/assets/BIRS.png" alt="BIRS" style="height:70px; width:auto; margin:0 15px;">
-  <img src="/assets/CMO.jpg" alt="Casa Matemática Oaxaca" style="height:70px; width:auto; margin:0 15px;">
-  <img src="/assets/CDC_RGB.svg" alt="IMU-CDC" style="height:70px; width:auto; margin:0 15px;">
+<div style="display:flex; justify-content:center; align-items:center; gap:24px; margin-top:20px; flex-wrap:wrap;">
+
+  <div style="width:220px; height:90px; display:flex; justify-content:center; align-items:center;">
+    <img src="/assets/img/CMO.jpg" alt="Casa Matemática Oaxaca" style="max-width:100%; max-height:100%; object-fit:contain;">
+  </div>
+
+  <div style="width:220px; height:90px; display:flex; justify-content:center; align-items:center;">
+    <img src="/assets/img/BIRS.png" alt="BIRS" style="max-width:100%; max-height:100%; object-fit:contain;">
+  </div>
+
+  <div style="width:220px; height:90px; display:flex; justify-content:center; align-items:center;">
+    <img src="/assets/img/CDC_RGB.svg" alt="IMU-CDC" style="max-width:100%; max-height:100%; object-fit:contain;">
+  </div>
+
 </div>
