@@ -33,8 +33,6 @@ layout: page
 </p>
 
 
-
-
 <p style="text-align:center; font-size:1.1em; margin-top:20px; margin-bottom:10px;">
 This event is supported by
 </p>
@@ -56,8 +54,5 @@ This event is supported by
 </div>
 
 
-  <div style="width:286px; height:117px; display:flex; justify-content:center; align-items:center;">
-    <img src="/assets/img/CDC_RGB.svg" alt="IMU-CDC" style="max-width:115%; max-height:115%; object-fit:contain;">
-  </div>
 
-</div>
+
