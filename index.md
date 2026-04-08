@@ -34,8 +34,10 @@ layout: page
 
 
 <p style="text-align:center; font-size:1.1em; margin-top:20px; margin-bottom:10px;">
-This event is supported by
+With the support of
 </p>
+
+
 
 <div style="display:flex; justify-content:center; align-items:center; gap:28px; margin-top:10px; flex-wrap:wrap;">
 
