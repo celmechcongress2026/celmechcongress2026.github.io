@@ -8,7 +8,7 @@ layout: page
   <h1>Hamiltonian Systems and Celestial Mechanics</h1>
   <h2>Workshop at Casa Matemática Oaxaca</h2>
   <p class="city" style="font-size: 1.25rem; font-weight: bold;">Oaxaca, México</p>
-  <p class="dates" style="font-size: 1.25rem; font-weight: bold;">June 7 – 12, 2026</p>
+  <p class="dates" style="font-size: 1.25rem; font-weight: bold;">June 8 – 12, 2026</p>
 </div>
 
 <section class="intro">
